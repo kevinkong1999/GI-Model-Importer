@@ -1,4 +1,5 @@
-#     <center><h1 style="font-size: 38px;">运搬原作：https://github.com/SilentNightSound/GI-Model-Importer</h1></center>    
+#     <center><h1 style="font-size: 38px;"><a href="https://github.com/SilentNightSound/GI-Model-Importer">运搬原作点击这里</a>
+</h1></center>    
 
 
 <center><h1 style="font-size: 36px;">GI-Model-Importer</h1></center>
@@ -40,3 +41,32 @@ GIMI 是我为了让 3DMigoto 兼容原神而将其修改后的工具
 
 [![Alt text](https://img.youtube.com/vi/z5HK44IEqtw/0.jpg)](https://www.youtube.com/watch?v=z5HK44IEqtw&autoplay=1)
 
+- 注意：加载器显示 “unable to verify if 3dmigoto was loaded” 并不意味着 3dmigoto 未能注入 - 如果绿色文本/mods 有显示，就没有问题。
+
+![示例图片](https://raw.githubusercontent.com/kevinkong1999/GI-Model-Importer/main/%E5%9B%BE%E7%89%87/175563985-1e7d1298-08d0-4334-b6e8-c69769e3877a.png)
+
+ 4. 安装完成！你现在应该就可以用 3DMigoto 加载自定义 mods 并覆盖贴图和着色器了。想要要添加 mods，就请将它们放在 Mods 文件夹中（每个角色只能有一个 mod），并在游戏中按 F10 加载它们。
+ 
+ [![Alt text](https://img.youtube.com/vi/WQIWPixMQw8/0.jpg)](https://www.youtube.com/watch?v=WQIWPixMQw8)
+
+另外，如果你有任何关于修改的问题，请加入原神 mod 制作的 Discord，网址是 https://discord.gg/agmg。
+
+- 看不懂的直接看这个这视频吧
+
+[![Alt text](https://img.youtube.com/vi/uZZWQ8HVAJ8/0.jpg)](https://www.youtube.com/watch?v=uZZWQ8HVAJ8)
+
+
+下好的找到d3dx.ini编制查找target 找到你游戏的路径
+
+放好Mobs文件夹你的模组。。。就在游戏里点 F10 刷新模组
+
+ 
+
+
+&nbsp;
+
+## 致谢
+
+衷心感谢 DarkStarSword，bo3b，和 Chiri 的 3dmigoto!
+ 
+ 
