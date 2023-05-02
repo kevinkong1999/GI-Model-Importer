@@ -67,6 +67,6 @@ GIMI 是我为了让 3DMigoto 兼容原神而将其修改后的工具
 
 ## 致谢
 
-衷心感谢 DarkStarSword，bo3b，和 Chiri 的 3dmigoto!
+特别鸣谢 DarkStarSword，bo3b，和 Chiri 的 3dmigoto!
  
  
